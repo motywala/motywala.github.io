@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    /* font-size: 12px; */
+    padding: 10px 286px;
+    margin: auto;
+}
+#a {
+    background-color: #00a86b;
+    padding: 20px 0;
+    text-align: center;
+}
+.member, .description, .feature, .note{
+    color: #333333;
+    font-size: 16px;
+}
+h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+}
+h2 {
+    color: #00a86b;
+    text-align: center;
+}
+h4 {
+    font-size: 18px;
+    color: #222222;
+}
+
