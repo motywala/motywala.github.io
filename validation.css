@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    padding: 10px 286px;
+    margin: auto;
+}
+#a {
+    background-color: #fb607f;
+    padding: 20px 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+}
+#v {
+    background-color: #e25672;
+    padding: 20px 0;
+    margin: 10px 0;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    color: white;
+}
+
+a:hover {
+    color: #e6e6e6;
+}
+a:visited {
+    color: white;
+}

@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /motywala.github.io/cv.html
